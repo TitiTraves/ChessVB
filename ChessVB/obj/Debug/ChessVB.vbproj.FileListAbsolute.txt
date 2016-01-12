@@ -1,0 +1,1 @@
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\bin\Debug\ChessVB.exe.config

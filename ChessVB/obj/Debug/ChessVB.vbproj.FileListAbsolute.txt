@@ -1,1 +1,11 @@
 c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\bin\Debug\ChessVB.exe.config
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\obj\Debug\ChessVB.vbprojResolveAssemblyReference.cache
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\obj\Debug\ChessVB.ChessVB.resources
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\obj\Debug\ChessVB.Resources.resources
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\obj\Debug\ChessVB.vbproj.GenerateResource.Cache
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\obj\Debug\ChessVB.xml
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\bin\Debug\ChessVB.exe
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\bin\Debug\ChessVB.pdb
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\bin\Debug\ChessVB.xml
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\obj\Debug\ChessVB.exe
+c:\users\thibault\documents\visual studio 2015\Projects\ChessVB\ChessVB\obj\Debug\ChessVB.pdb

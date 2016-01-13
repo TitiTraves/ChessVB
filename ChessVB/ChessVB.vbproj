@@ -79,6 +79,7 @@
       <DependentUpon>ChessVB.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Mouvements.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -119,7 +120,26 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\wrook.bmp" />
+    <Content Include="Resources\Attention.png" />
+    <Content Include="Resources\CavalierBlanc.png" />
+    <Content Include="Resources\CavalierNoir.png" />
+    <Content Include="Resources\Cotes.png" />
+    <Content Include="Resources\Croix.png" />
+    <Content Include="Resources\DameBlanche.png" />
+    <Content Include="Resources\DameNoire.png" />
+    <Content Include="Resources\Echiquier.png" />
+    <Content Include="Resources\FouBlanc.png" />
+    <Content Include="Resources\FouNoir.png" />
+    <Content Include="Resources\HautBas.png" />
+    <Content Include="Resources\Mauve.png" />
+    <Content Include="Resources\PionBlanc.png" />
+    <Content Include="Resources\PionNoir.png" />
+    <Content Include="Resources\RoiBlanc.png" />
+    <Content Include="Resources\RoiNoir.png" />
+    <Content Include="Resources\Rouge.png" />
+    <Content Include="Resources\TourBlanche.png" />
+    <Content Include="Resources\TourNoire.png" />
+    <Content Include="Resources\Vert.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

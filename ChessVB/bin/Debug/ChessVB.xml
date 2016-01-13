@@ -22,7 +22,102 @@ ChessVB
   les recherches de ressources à l'aide de cette classe de ressource fortement typée.
 </summary>
 </member>
-<member name="P:ChessVB.My.Resources.Resources.wrook">
+<member name="P:ChessVB.My.Resources.Resources.Attention">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.CavalierBlanc">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.CavalierNoir">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.Cotes">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.Croix">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.DameBlanche">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.DameNoire">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.Echiquier">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.FouBlanc">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.FouNoir">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.HautBas">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.Mauve">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.PionBlanc">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.PionNoir">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.RoiBlanc">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.RoiNoir">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.Rouge">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.TourBlanche">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.TourNoire">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ChessVB.My.Resources.Resources.Vert">
 <summary>
   Recherche une ressource localisée de type System.Drawing.Bitmap.
 </summary>
